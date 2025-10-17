@@ -1,0 +1,17 @@
+{
+    "chapter": "CH01",
+    "scene": "005",
+    "voice":
+    {
+        "text": "and deploying them across web browsers and servers.",
+        "speed": 1.0,
+        "delay": 0
+    },
+    "frames":
+    {
+        "source": "../frames.pdf",
+        "start": 5,
+        "end": 5,
+        "duplications": "1:0"
+    }
+}

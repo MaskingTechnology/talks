@@ -1,0 +1,17 @@
+{
+    "chapter": "CH03",
+    "scene": "010",
+    "voice":
+    {
+        "text": "This is what the output segment bundle for the reporting service looks like. It essentially imports the configured functions and builds the service model—what we call a segment—which contains these functions along with their metadata (for example, FQN, versions, parameters, etcetera). Note that a segment file is intended for post-processing by a bundler such as Webpack, Rollup, or similar, to generate optimized deployment bundles.",
+        "speed": 1.0,
+        "delay": 0
+    },
+    "frames":
+    {
+        "source": "../frames.pdf",
+        "start": 20,
+        "end": 20,
+        "duplications": "1:0"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "chapter": "CH03",
+    "scene": "009",
+    "voice":
+    {
+        "text": "In the build process, each defined export from the configuration files is parsed to analyze its internal structure—such as class fields, function parameters, and more—in order to create remote implementations for use in a distributed setup. This information is stored in segment models, which are then used both to generate the deployable segment bundles and to rewrite the application modules.",
+        "speed": 1.0,
+        "delay": 0
+    },
+    "frames":
+    {
+        "source": "../frames.pdf",
+        "start": 19,
+        "end": 19,
+        "duplications": "1:0"
+    }
+}

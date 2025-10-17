@@ -1,0 +1,17 @@
+{
+    "chapter": "CH02",
+    "scene": "001",
+    "voice":
+    {
+        "text": "There are many tools out there for building distributed applications. So, let me first explain why we've put in the effort to build [Jitar](/dʒiːtɑr/).",
+        "speed": 1.0,
+        "delay": 0
+    },
+    "frames":
+    {
+        "source": "../frames.pdf",
+        "start": 7,
+        "end": 7,
+        "duplications": "1:0"
+    }
+}

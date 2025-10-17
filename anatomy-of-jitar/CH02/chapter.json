@@ -1,0 +1,10 @@
+{
+    "chapter": "CH02",
+    "description": "Motivation and goals",
+    "scenes": {
+        "001": "001.json",
+        "002": "002.json",
+        "003": "003.json",
+        "004": "004.json"
+    }
+}

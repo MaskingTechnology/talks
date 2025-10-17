@@ -1,0 +1,17 @@
+{
+    "chapter": "CH03",
+    "scene": "008",
+    "voice":
+    {
+        "text": "And that brings us to the implementation of the actual splitting. As the command suggests, we use a build strategy to create deployable bundles. The output shows the created application segments, which represent the individual bundles. Please note: In earlier versions of Jitar, we experimented with a simpler approach that relied on a shared remote repository to mediate and handle all import requests between parties. However, due to significant security concerns, we chose to take a more robust and secure path.",
+        "speed": 1.0,
+        "delay": 0
+    },
+    "frames":
+    {
+        "source": "../frames.pdf",
+        "start": 18,
+        "end": 18,
+        "duplications": "1:0"
+    }
+}

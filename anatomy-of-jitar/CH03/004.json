@@ -1,0 +1,17 @@
+{
+    "chapter": "CH03",
+    "scene": "004",
+    "voice":
+    {
+        "text": "The application is structured around logical boundaries based on domain concepts. Each boundary contains related modules, where the main process and each of its steps are implemented separately as functions in their own module files.",
+        "speed": 1.0,
+        "delay": 0
+    },
+    "frames":
+    {
+        "source": "../frames.pdf",
+        "start": 14,
+        "end": 14,
+        "duplications": "1:0"
+    }
+}

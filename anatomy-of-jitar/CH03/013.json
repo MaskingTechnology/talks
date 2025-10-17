@@ -1,0 +1,17 @@
+{
+    "chapter": "CH03",
+    "scene": "013",
+    "voice":
+    {
+        "text": "This is how the segmented process implementation looks after the rewrite: The import of the createPDF function remains unchanged, as it is unsegmented and therefore a common module. The getMonthData function is imported from the sales module, so it imports the corresponding remote module. The formatMonthReport function is imported from the same segment, so it imports the actual implementation.",
+        "speed": 1.0,
+        "delay": 0
+    },
+    "frames":
+    {
+        "source": "../frames.pdf",
+        "start": 23,
+        "end": 23,
+        "duplications": "1:0"
+    }
+}

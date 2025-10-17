@@ -1,0 +1,20 @@
+{
+    "chapter": "CH03",
+    "description": "Splitting applications",
+    "scenes": {
+        "001": "001.json",
+        "002": "002.json",
+        "003": "003.json",
+        "004": "004.json",
+        "005": "005.json",
+        "006": "006.json",
+        "007": "007.json",
+        "008": "008.json",
+        "009": "009.json",
+        "010": "010.json",
+        "011": "011.json",
+        "012": "012.json",
+        "013": "013.json",
+        "014": "014.json"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "chapter": "CH03",
+    "scene": "014",
+    "voice":
+    {
+        "text": "Here’s how the remote implementation of the getMonthData function looks like. It acts as a wrapper around the __run function provided by the runtime. This function takes all the necessary arguments to locate the associated function in one of the loaded segment models (including FQN, version, and arguments). Additionally, it adds context information provided by the runtime, such as metadata (for example, request headers).",
+        "speed": 1.0,
+        "delay": 0
+    },
+    "frames":
+    {
+        "source": "../frames.pdf",
+        "start": 24,
+        "end": 24,
+        "duplications": "1:0"
+    }
+}

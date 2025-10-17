@@ -1,0 +1,17 @@
+{
+    "chapter": "CH03",
+    "scene": "002",
+    "voice":
+    {
+        "text": "To build and distribute full-stack JavaScript applications, we need two things in addition to a web browser: 1. A JavaScript runtime for executing server-side components. 2. A robust module system for defining logical and physical boundaries.",
+        "speed": 1.0,
+        "delay": 0
+    },
+    "frames":
+    {
+        "source": "../frames.pdf",
+        "start": 12,
+        "end": 12,
+        "duplications": "1:0"
+    }
+}

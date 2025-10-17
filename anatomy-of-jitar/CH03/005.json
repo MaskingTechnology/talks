@@ -1,0 +1,17 @@
+{
+    "chapter": "CH03",
+    "scene": "005",
+    "voice":
+    {
+        "text": "The process implementation is fairly straightforward: it imports all the steps and executes them in the correct order. Each step follows the same strategy and format.",
+        "speed": 1.0,
+        "delay": 0
+    },
+    "frames":
+    {
+        "source": "../frames.pdf",
+        "start": 15,
+        "end": 15,
+        "duplications": "1:0"
+    }
+}

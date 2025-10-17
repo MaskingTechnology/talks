@@ -2,6 +2,11 @@
     "chapter": "CH01",
     "description": "Introduction",
     "scenes": {
-        "001": "001/scene.json"
+        "001": "001.json",
+        "002": "002.json",
+        "003": "003.json",
+        "004": "004.json",
+        "005": "005.json",
+        "006": "006.json"
     }
 }

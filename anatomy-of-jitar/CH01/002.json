@@ -1,0 +1,17 @@
+{
+    "chapter": "CH01",
+    "scene": "002",
+    "voice":
+    {
+        "text": "The runtime we will be dissecting is called [Jitar](/dʒiːtɑr/). It is an abbreviation of 'Just-in-time Architecture'.",
+        "speed": 1.0,
+        "delay": 0
+    },
+    "frames":
+    {
+        "source": "../frames.pdf",
+        "start": 2,
+        "end": 2,
+        "duplications": "1:0"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "chapter": "CH02",
+    "scene": "002",
+    "voice":
+    {
+        "text": "The way applications are deployed has a significant impact on their architecture and often leads to friction between development and operations when the decomposition structure doesn't satisfy both sides. Therefore, our first goal is to separate the development model from the deployment model, allowing each to have its own decomposition structure.",
+        "speed": 1.0,
+        "delay": 0
+    },
+    "frames":
+    {
+        "source": "../frames.pdf",
+        "start": 8,
+        "end": 8,
+        "duplications": "1:0"
+    }
+}

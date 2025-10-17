@@ -1,0 +1,17 @@
+{
+    "chapter": "CH03",
+    "scene": "012",
+    "voice":
+    {
+        "text": "Along with rewriting the application modules, their imports must also be adjusted. This process is slightly more complex: Common and segment-specific modules can only import directly from their own scope (common or segment). Imports from other segments must go through the corresponding remote module file. If a module exports a resource—such as a database connection—it can be registered for exclusion from the deployment bundle.",
+        "speed": 1.0,
+        "delay": 0
+    },
+    "frames":
+    {
+        "source": "../frames.pdf",
+        "start": 22,
+        "end": 22,
+        "duplications": "1:0"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "chapter": "CH03",
+    "scene": "001",
+    "voice":
+    {
+        "text": "With our goals established, it's time to dive into the runtime. The first concern to address is separation of concerns, which is achieved by splitting the application into distributable bundles.",
+        "speed": 1.0,
+        "delay": 0
+    },
+    "frames":
+    {
+        "source": "../frames.pdf",
+        "start": 11,
+        "end": 11,
+        "duplications": "1:0"
+    }
+}

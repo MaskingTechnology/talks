@@ -1,0 +1,17 @@
+{
+    "chapter": "CH02",
+    "scene": "003",
+    "voice":
+    {
+        "text": "Distributed applications inherently require more infrastructure, as each deployable component runs in its own environment. Depending on the application's type and usage patterns, this can lead to inefficient infrastructure use when traffic is low. A more sustainable approach is to dynamically scale out and distribute only the parts of the application experiencing high load—and consolidate them back when demand decreases.",
+        "speed": 1.0,
+        "delay": 0
+    },
+    "frames":
+    {
+        "source": "../frames.pdf",
+        "start": 9,
+        "end": 9,
+        "duplications": "1:0"
+    }
+}

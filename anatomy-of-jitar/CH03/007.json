@@ -1,0 +1,17 @@
+{
+    "chapter": "CH03",
+    "scene": "007",
+    "voice":
+    {
+        "text": "To define the distribution, we simply group the module files that need to be deployed together. To maintain flexibility, this definition should be kept out of the code. Instead, we use a simple configuration file. In the context of JavaScript, JSON is a particularly suitable choice. The simplest approach is to list the module files per service, but that limits the ability to include additional configuration—such as access levels. To address this, we adopted a more structured format.",
+        "speed": 1.0,
+        "delay": 0
+    },
+    "frames":
+    {
+        "source": "../frames.pdf",
+        "start": 17,
+        "end": 17,
+        "duplications": "1:0"
+    }
+}

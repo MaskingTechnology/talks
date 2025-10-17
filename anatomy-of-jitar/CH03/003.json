@@ -1,0 +1,17 @@
+{
+    "chapter": "CH03",
+    "scene": "003",
+    "voice":
+    {
+        "text": "But we also need an actual application. Let’s start with a simple e-commerce application use case.",
+        "speed": 1.0,
+        "delay": 0
+    },
+    "frames":
+    {
+        "source": "../frames.pdf",
+        "start": 13,
+        "end": 13,
+        "duplications": "1:0"
+    }
+}

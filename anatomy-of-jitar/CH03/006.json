@@ -1,0 +1,17 @@
+{
+    "chapter": "CH03",
+    "scene": "006",
+    "voice":
+    {
+        "text": "With the application set up, we can now turn to the distribution plan. For this use case, we aim to split the application into two services. But the more important question is: how do we define this plan?",
+        "speed": 1.0,
+        "delay": 0
+    },
+    "frames":
+    {
+        "source": "../frames.pdf",
+        "start": 16,
+        "end": 16,
+        "duplications": "1:0"
+    }
+}

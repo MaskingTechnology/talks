@@ -1,0 +1,17 @@
+{
+    "chapter": "CH01",
+    "scene": "004",
+    "voice":
+    {
+        "text": "and by configuration, split it into smaller, independent bundles...",
+        "speed": 1.0,
+        "delay": 0
+    },
+    "frames":
+    {
+        "source": "../frames.pdf",
+        "start": 4,
+        "end": 4,
+        "duplications": "1:0"
+    }
+}

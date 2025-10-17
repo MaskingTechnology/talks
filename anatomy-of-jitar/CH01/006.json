@@ -1,0 +1,17 @@
+{
+    "chapter": "CH01",
+    "scene": "006",
+    "voice":
+    {
+        "text": "We have five items on the agenda: first we will share our motivation and goals, followed by the technical details of splitting, running, and distributing applications. And we will close off with the conclusions and considerations.",
+        "speed": 1.0,
+        "delay": 0
+    },
+    "frames":
+    {
+        "source": "../frames.pdf",
+        "start": 6,
+        "end": 6,
+        "duplications": "1:0"
+    }
+}

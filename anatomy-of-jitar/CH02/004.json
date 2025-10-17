@@ -1,0 +1,17 @@
+{
+    "chapter": "CH02",
+    "scene": "004",
+    "voice":
+    {
+        "text": "Building distributed applications is inherently complex, so any simplification is valuable—such as offloading many distribution concerns into a unified solution at the runtime level. Keeping these concerns out of the application simplifies development by eliminating the need for additional dependencies like libraries or frameworks. This not only reduces the required knowledge overhead but also lowers maintenance effort.",
+        "speed": 1.0,
+        "delay": 0
+    },
+    "frames":
+    {
+        "source": "../frames.pdf",
+        "start": 10,
+        "end": 10,
+        "duplications": "1:0"
+    }
+}
