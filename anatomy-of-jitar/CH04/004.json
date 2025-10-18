@@ -1,0 +1,17 @@
+{
+    "chapter": "CH04",
+    "scene": "004",
+    "voice":
+    {
+        "text": "The execution model serves as the foundation for the execution process. The first step is to check whether the requested procedure is available locally in one of the application segments. If it isn't, a remote call is performed. If it is, the next check is whether the procedure resides in the same segment. If so, the implementation is called directly. Otherwise, the system must verify the procedure’s access level before proceeding.",
+        "speed": 1.0,
+        "delay": 0
+    },
+    "frames":
+    {
+        "source": "./frames.pdf",
+        "start": 4,
+        "end": 4,
+        "duplications": "1:0"
+    }
+}

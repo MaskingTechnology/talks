@@ -1,0 +1,17 @@
+{
+    "chapter": "CH06",
+    "scene": "002",
+    "voice":
+    {
+        "text": "The most efficient approach is to use the procedural paradigm, as procedures (functions) are relatively easy to convert into API endpoints. This doesn’t mean object-oriented programming (OOP) isn’t supported, but its use is more limited due to the added complexity of managing distributed object state.",
+        "speed": 1.0,
+        "delay": 0
+    },
+    "frames":
+    {
+        "source": "./frames.pdf",
+        "start": 2,
+        "end": 2,
+        "duplications": "1:0"
+    }
+}

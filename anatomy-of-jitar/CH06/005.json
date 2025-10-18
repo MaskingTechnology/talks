@@ -1,9 +1,9 @@
 {
-    "chapter": "CH03",
+    "chapter": "CH06",
     "scene": "005",
     "voice":
     {
-        "text": "The process implementation is fairly straightforward: it imports all the steps and executes them in the correct order. Each step follows the same strategy and format.",
+        "text": "If you want to know more about what we do, take a look at our website. It contains links to our articles and open source projects.",
         "speed": 1.0,
         "delay": 0
     },

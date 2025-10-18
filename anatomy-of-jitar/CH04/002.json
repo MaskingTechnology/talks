@@ -1,0 +1,17 @@
+{
+    "chapter": "CH04",
+    "scene": "002",
+    "voice":
+    {
+        "text": "To run an application, we need at least one worker node—either on the server or the client. This command starts a worker on the server with the reporting segment. Its output displays the segment’s procedures that are available for remote invocation.",
+        "speed": 1.0,
+        "delay": 0
+    },
+    "frames":
+    {
+        "source": "./frames.pdf",
+        "start": 2,
+        "end": 2,
+        "duplications": "1:0"
+    }
+}

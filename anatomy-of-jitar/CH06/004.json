@@ -1,9 +1,9 @@
 {
-    "chapter": "CH01",
+    "chapter": "CH06",
     "scene": "004",
     "voice":
     {
-        "text": "and by configuration, split it into smaller, independent bundles...",
+        "text": "To conclude this session, let's take a look at the overall architecture.",
         "speed": 1.0,
         "delay": 0
     },

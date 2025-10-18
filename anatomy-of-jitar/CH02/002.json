@@ -9,9 +9,9 @@
     },
     "frames":
     {
-        "source": "../frames.pdf",
-        "start": 8,
-        "end": 8,
+        "source": "./frames.pdf",
+        "start": 2,
+        "end": 2,
         "duplications": "1:0"
     }
 }

@@ -1,0 +1,17 @@
+{
+    "chapter": "CH04",
+    "scene": "003",
+    "voice":
+    {
+        "text": "Worker nodes build an execution model when they load the configured segment(s). At the root of this model is the application, which contains one or more segments depending on the configuration. Each segment includes its registered classes for (de)serialization and procedures for remote access. For compatibility, procedures can be versioned—but to keep things simple, we'll leave that out of the equation for now.",
+        "speed": 1.0,
+        "delay": 0
+    },
+    "frames":
+    {
+        "source": "./frames.pdf",
+        "start": 3,
+        "end": 3,
+        "duplications": "1:0"
+    }
+}

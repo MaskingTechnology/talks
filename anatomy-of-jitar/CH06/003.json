@@ -1,0 +1,17 @@
+{
+    "chapter": "CH06",
+    "scene": "003",
+    "voice":
+    {
+        "text": "We must conclude that distributable monolithic applications come with certain constraints: they should be stateless, communicate asynchronously, and rely on immutable data. But perhaps most importantly, it's the application—not the database—that must manage transactions and enforce relational integrity. This shift is what enables data to be decoupled and deployed in sync with the application.",
+        "speed": 1.0,
+        "delay": 0
+    },
+    "frames":
+    {
+        "source": "./frames.pdf",
+        "start": 3,
+        "end": 3,
+        "duplications": "1:0"
+    }
+}

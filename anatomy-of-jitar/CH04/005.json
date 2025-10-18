@@ -1,9 +1,9 @@
 {
-    "chapter": "CH03",
+    "chapter": "CH04",
     "scene": "005",
     "voice":
     {
-        "text": "The process implementation is fairly straightforward: it imports all the steps and executes them in the correct order. Each step follows the same strategy and format.",
+        "text": "Remote calls are handled through an RPC API. The current version of Jitar supports only HTTP, but additional protocols—such as gRPC—will be added in future releases.",
         "speed": 1.0,
         "delay": 0
     },

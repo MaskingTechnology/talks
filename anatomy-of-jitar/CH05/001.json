@@ -1,9 +1,9 @@
 {
-    "chapter": "CH01",
+    "chapter": "CH05",
     "scene": "001",
     "voice":
     {
-        "text": "In this talk, we will dissect the design of an open-source distributed runtime for full-stack JavaScript and TypeScript applications.",
+        "text": "Now we know how to run a single worker, it's time to scale out.",
         "speed": 1.0,
         "delay": 0
     },

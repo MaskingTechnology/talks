@@ -1,0 +1,17 @@
+{
+    "chapter": "CH05",
+    "scene": "002",
+    "voice":
+    {
+        "text": "Running distributed applications safely requires many supporting services. Jitar provides an all-in-one solution, functioning like a service mesh by combining these services into a single system. However, some functionality is still missing for Jitar to be fully feature-complete for the use cases we have in mind.",
+        "speed": 1.0,
+        "delay": 0
+    },
+    "frames":
+    {
+        "source": "./frames.pdf",
+        "start": 2,
+        "end": 2,
+        "duplications": "1:0"
+    }
+}
